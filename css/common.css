@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+}
+a{
+    color:grey;
+    text-decoration: none;
+}
+a:hover{
+    color:ghostwhite;
+}
+a:active{
+    color:darkslategrey;
+}
+button:hover{
+    color:ghostwhite;
+    background-color:grey;
+}
